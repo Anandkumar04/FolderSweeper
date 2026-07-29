@@ -116,11 +116,12 @@ Do you want to proceed? (yes/no)
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 ---
-<img width="1920" height="1080" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/3dd22cb4-3d5d-4858-ad75-af72e1a29a74" />
 
-<img width="1920" height="1080" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/4d5915fb-22f9-48e5-a925-2b752a8f5016" />
+<img width="1627" height="1035" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/c6a418ef-a02f-4f78-a513-5bd40186edfd" />
 
-<img width="1920" height="1080" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/4ea040bf-deaf-4c4b-ab25-a2d9ca9bd0df" />
+<img width="1627" height="1031" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/93e115ed-ea03-4faf-96fc-3aecedad20f9" />
+
+<img width="1627" height="1028" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/075a384c-87e2-4e16-ba25-33aca1e005df" />
 
 
 
