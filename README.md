@@ -117,6 +117,8 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 ---
 
+## Images
+
 <img width="1627" height="1035" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/c6a418ef-a02f-4f78-a513-5bd40186edfd" />
 
 <img width="1627" height="1031" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/93e115ed-ea03-4faf-96fc-3aecedad20f9" />
