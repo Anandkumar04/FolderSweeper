@@ -114,3 +114,14 @@ Do you want to proceed? (yes/no)
 **Anand Kumar**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+---
+<img width="1920" height="1080" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/3dd22cb4-3d5d-4858-ad75-af72e1a29a74" />
+
+<img width="1920" height="1080" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/4d5915fb-22f9-48e5-a925-2b752a8f5016" />
+
+<img width="1920" height="1080" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/4ea040bf-deaf-4c4b-ab25-a2d9ca9bd0df" />
+
+
+
+
